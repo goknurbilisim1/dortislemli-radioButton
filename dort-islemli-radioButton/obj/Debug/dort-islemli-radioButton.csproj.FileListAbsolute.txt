@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\dort-islemli-radioButton\dort-islemli-radioButton\bin\Debug\dort-islemli-radioButton.exe.config
+C:\Users\User\source\repos\dort-islemli-radioButton\dort-islemli-radioButton\bin\Debug\dort-islemli-radioButton.exe
+C:\Users\User\source\repos\dort-islemli-radioButton\dort-islemli-radioButton\bin\Debug\dort-islemli-radioButton.pdb
+C:\Users\User\source\repos\dort-islemli-radioButton\dort-islemli-radioButton\obj\Debug\dort-islemli-radioButton.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\dort-islemli-radioButton\dort-islemli-radioButton\obj\Debug\dort-islemli-radioButton.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\dort-islemli-radioButton\dort-islemli-radioButton\obj\Debug\dort_islemli_radioButton.Form1.resources
+C:\Users\User\source\repos\dort-islemli-radioButton\dort-islemli-radioButton\obj\Debug\dort_islemli_radioButton.Properties.Resources.resources
+C:\Users\User\source\repos\dort-islemli-radioButton\dort-islemli-radioButton\obj\Debug\dort-islemli-radioButton.csproj.GenerateResource.cache
+C:\Users\User\source\repos\dort-islemli-radioButton\dort-islemli-radioButton\obj\Debug\dort-islemli-radioButton.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\dort-islemli-radioButton\dort-islemli-radioButton\obj\Debug\dort-islemli-radioButton.exe
+C:\Users\User\source\repos\dort-islemli-radioButton\dort-islemli-radioButton\obj\Debug\dort-islemli-radioButton.pdb
